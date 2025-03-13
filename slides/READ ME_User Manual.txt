@@ -1,0 +1,50 @@
+Requirements/Dependencies:
+
+	•	Python 3.8 or later
+
+Required libraries:
+	•	numpy
+	•	pandas
+	•	matplotlib
+	•	scikit-learn
+    •	sns
+    •	nltk
+	•	re
+	•	mpl_toolkits.mplot3d
+	•	statsmodels
+    •	scipy.cluster.hierarchy
+
+For questions or contributions, contact:
+	•	Name: Morgan Meng
+	•	Email: meng7675@stthomas.edu
+
+Required DATA Files: /FINAL PROJECT/Final Project Data Files
+    .  1- Kaggle Data Archive: original data downloaded
+    .  1- Industry Classification_Sector.csv
+    .  1- State Geo Location.csv
+    .  1- ML_job_postings_finale_ready_v2.csv
+
+Optional data files: /FINAL PROJECT/Final Project Data Files
+    .  If the user runs all '1- ...data cleaning PART..'files, the optional data files will be generated. 
+    .  1- df_describe.xlsx: The general stats of the CLEANED dataset 
+
+
+Which file to begin with?
+
+    .  For user who need to review data cleaning process or modify data cleaning, start from: 
+        .  '1-ML final project data cleaning PART 1.ipynb'
+        .  '1-ML final project data cleaning PART 1.ipynb'
+        .  '1-ML final project data cleaning PART 3 NLP.ipynb'
+        .  '1-ML final project data cleaning PART 4.ipynb'
+        .  '1-ML final project data cleaning PART 5.ipynb'
+
+    .  For user only need to review models, skip all '1-ML final project data cleaning PART...' files.
+        .  Data file: /FINAL PROJECT/Final Project Data Files/1- ML_job_postings_finale_ready_v2.csv
+        .  Run '2-' series files for Linear Regression Models. Each file can by run independantly. 
+        .  Run '3-' series files for SVM Models. Each file can by run independantly. 
+        .  Run '4-' series files for Decision Tree Models. Each file can by run independantly. 
+        .  Run '5-' series files for Clustering Models. Each file can by run independantly. 
+        
+
+
+    
