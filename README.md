@@ -31,23 +31,23 @@ Here are some of the projects I have worked on:
    
    - Code: 
     I-DATA CLEANING AND INTERGRATION
-    [Part 1](code/1-ML final project data cleaning PART 1.ipynb)
-    [Part 2](code/1-ML final project data cleaning PART 2.ipynb)
-    [Part 3](code/1-ML final project data cleaning PART 3_NLP.ipynb)
-    [Part 4](code/1-ML final project data cleaning PART 4.ipynb)
-    [Part 5](code/1-ML final project data cleaning PART 5.ipynb)
-    [Part 6](code/1-ML final project data cleaning PART 6_SUMMMARY.ipynb)
+    [Part 1](code/1-ML_final_project_data_cleaning_PART_1.ipynb)
+    [Part 2](code/1-ML_final_project_data_cleaning_PART_2.ipynb)
+    [Part 3](code/1-ML_final_project_data_cleaning_PART_3_NLP.ipynb)
+    [Part 4](code/1-ML_final_project_data_cleaning_PART_4.ipynb)
+    [Part 5](code/1-ML_final_project_data_cleaning_PART_5.ipynb)
+    [Part 6](code/1-ML_final_project_data_cleaning_PART_6_SUMMMARY.ipynb)
    
     II-MODEL BUILDING
-    [Regression 1](code/2-LR_MODEL 1.ipynb)
-    [Regression 2& Decison Tree 3](code/2-LR_MODEL 2 &DT_MODEL 3.ipynb)
-    [SVM 1 &SVM 2 with PCA](code/3-SVM MODEL 1& MODEL 2_ PCA.ipynb)
-    [SVM 3_Top predictiors](code/3-SVM_MODEL 3_ Top 5 Predictors.ipynb)
-    [SVM 4](code/3-SVM_MODEL 4.ipynb)
-    [Decision Tree 1](code/4-DT_MODEL 1.ipynb)
-    [Decision Tree 2](code/4-DT_MODEL 2.ipynb)
-    [Clustering 1](code/4-DT_MODEL 1.ipynb)
-    [Clustering 2](code/4-DT_MODEL 2.ipynb)
+    [Regression 1](code/2-LR_MODEL_1.ipynb)
+    [Regression 2& Decison Tree 3](code/2-LR_MODEL_2 &DT_MODEL_3.ipynb)
+    [SVM 1 &SVM 2 with PCA](code/3-SVM MODEL_1& MODEL_2_ PCA.ipynb)
+    [SVM 3_Top predictiors](code/3-SVM_MODEL_3_Top__5_Predictors.ipynb)
+    [SVM 4](code/3-SVM_MODEL_4.ipynb)
+    [Decision Tree 1](code/4-DT_MODEL_1.ipynb)
+    [Decision Tree 2](code/4-DT_MODEL_2.ipynb)
+    [Clustering 1](code/4-DT_MODEL_1.ipynb)
+    [Clustering 2](code/4-DT_MODEL_2.ipynb)
     
     
    - Technologies Used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, Linear Regression, Lasso, SVM, Decision Tree, PCA, Clustering, NLP
