@@ -31,23 +31,23 @@ Here are some of the projects I have worked on:
    
    - Code: 
     I-DATA CLEANING AND INTERGRATION
-    [Part 1](/code/1-ML final project data cleaning PART 1.ipynb)
-    [Part 2](/code/1-ML final project data cleaning PART 2.ipynb)
-    [Part 3](/code/1-ML final project data cleaning PART 3_NLP.ipynb)
-    [Part 4](/code/1-ML final project data cleaning PART 4.ipynb)
-    [Part 5](/code/1-ML final project data cleaning PART 5.ipynb)
-    [Part 6](/code/1-ML final project data cleaning PART 6_SUMMMARY.ipynb)
+    [Part 1](code/1-ML final project data cleaning PART 1.ipynb)
+    [Part 2](code/1-ML final project data cleaning PART 2.ipynb)
+    [Part 3](code/1-ML final project data cleaning PART 3_NLP.ipynb)
+    [Part 4](code/1-ML final project data cleaning PART 4.ipynb)
+    [Part 5](code/1-ML final project data cleaning PART 5.ipynb)
+    [Part 6](code/1-ML final project data cleaning PART 6_SUMMMARY.ipynb)
    
     II-MODEL BUILDING
-    [Regression 1](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/2-LR_MODEL 1.ipynb)
-    [Regression 2& Decison Tree 3](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/2-LR_MODEL 2 &DT_MODEL 3.ipynb)
-    [SVM 1 &SVM 2 with PCA](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/3-SVM MODEL 1& MODEL 2_ PCA.ipynb)
-    [SVM 3_Top predictiors](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/3-SVM_MODEL 3_ Top 5 Predictors.ipynb)
-    [SVM 4](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/3-SVM_MODEL 4.ipynb)
-    [Decision Tree 1](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/4-DT_MODEL 1.ipynb)
-    [Decision Tree 2](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/4-DT_MODEL 2.ipynb)
-    [Clustering 1](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/4-DT_MODEL 1.ipynb)
-    [Clustering 2](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/4-DT_MODEL 2.ipynb)
+    [Regression 1](code/2-LR_MODEL 1.ipynb)
+    [Regression 2& Decison Tree 3](code/2-LR_MODEL 2 &DT_MODEL 3.ipynb)
+    [SVM 1 &SVM 2 with PCA](code/3-SVM MODEL 1& MODEL 2_ PCA.ipynb)
+    [SVM 3_Top predictiors](code/3-SVM_MODEL 3_ Top 5 Predictors.ipynb)
+    [SVM 4](code/3-SVM_MODEL 4.ipynb)
+    [Decision Tree 1](code/4-DT_MODEL 1.ipynb)
+    [Decision Tree 2](code/4-DT_MODEL 2.ipynb)
+    [Clustering 1](code/4-DT_MODEL 1.ipynb)
+    [Clustering 2](code/4-DT_MODEL 2.ipynb)
     
     
    - Technologies Used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, Linear Regression, Lasso, SVM, Decision Tree, PCA, Clustering, NLP
@@ -55,7 +55,7 @@ Here are some of the projects I have worked on:
 2. **Project Name**Predictive Modeling for Strategic Student Recruitment                                      
    - Description: Conceptualized and implemented a data-driven initiative to optimize student recruitment, analyzing 60,000+ admission records using Python and PowerQuery.
                   Built Dashboards to support team decision-making.
-   - Code (COMMING SOON...): [Tranfer Students locations](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/UST Transfer Project 1.ipynb)
+   - Code (COMMING SOON...): [Tranfer Students locations](code/UST Transfer Project 1.ipynb)
    - Data Visualization
    - Technologies Used:PowerQuery,Python API, Tableau, PowerBI 
 
