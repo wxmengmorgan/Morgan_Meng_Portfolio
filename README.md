@@ -40,7 +40,7 @@ Here are some of the projects I have worked on:
    
     II-MODEL BUILDING
     [Regression 1](code/2-LR_MODEL_1.ipynb)
-    [Regression 2& Decison Tree 3](code/2-LR_MODEL_2 &DT_MODEL_3.ipynb)
+    [Regression 2& Decison Tree 3](code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)
     [SVM 1 &SVM 2 with PCA](code/3-SVM MODEL_1& MODEL_2_ PCA.ipynb)
     [SVM 3_Top predictiors](code/3-SVM_MODEL_3_Top__5_Predictors.ipynb)
     [SVM 4](code/3-SVM_MODEL_4.ipynb)
