@@ -1,4 +1,5 @@
-# wxmengmorgan.github.io
+# Morgan W. Meng
+#Portfolio
 
 Welcome to my portfolio. This repository showcases my professional work and coursework, including my resume, project codes, and presentation or dashboard.
 You are here because you get this link either from my resume or my linkedin. 
@@ -24,10 +25,10 @@ You can view my resume [here](activities/Universal_Resume.docx).
 
 Here are some of the projects I have worked on:
 
-1. **Project Name**Predicting Job Market Trends Using LinkedIn Job Postings		
-   - Description: Conducted market research using LinkedIn job postings dataset. Extracted insights into job requirements, skill trends, and visa considerations. 
-   Phase 1 ML: Applied logistic regression, SVM, decision trees, and clustering for data analysis and visualization, aiding in identifying data-driven hiring trends.
-   Phase 2 AI(anticipated releasing May 2025): CNN and Text analysis to identify emerging skills and industry trends.
+1. ###Predicting Job Market Trends Using LinkedIn Job Postings		
+   - Description: Conducted market research using LinkedIn job postings dataset. Extracted insights into job requirements, skill trends, and visa considerations.  
+   Phase 1 ML: Applied logistic regression, SVM, decision trees, and clustering for data analysis and visualization, aiding in identifying data-driven hiring trends.  
+   Phase 2 AI(anticipated releasing May 2025): CNN and Text analysis to identify emerging skills and industry trends.  
    
    - Code: 
     I-DATA CLEANING AND INTERGRATION
@@ -52,7 +53,7 @@ Here are some of the projects I have worked on:
     
    - Technologies Used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, Linear Regression, Lasso, SVM, Decision Tree, PCA, Clustering, NLP
 
-2. **Project Name**Predictive Modeling for Strategic Student Recruitment                                      
+2. ###Predictive Modeling for Strategic Student Recruitment                                      
    - Description: Conceptualized and implemented a data-driven initiative to optimize student recruitment, analyzing 60,000+ admission records using Python and PowerQuery.
                   Built Dashboards to support team decision-making.
    - Code (COMMING SOON...): [Tranfer Students locations](code/UST_Transfer_Project_1.ipynb)
