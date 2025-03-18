@@ -31,12 +31,12 @@ Here are some of the projects I have worked on:
    
    - Code: 
     I-DATA CLEANING AND INTERGRATION
-    [Part 1](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 1.ipynb)
-    [Part 2](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 2.ipynb)
-    [Part 3](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 3_NLP.ipynb)
-    [Part 4](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 4.ipynb)
-    [Part 5](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 5.ipynb)
-    [Part 6](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/1-ML final project data cleaning PART 6_SUMMMARY.ipynb)
+    [Part 1](/code/1-ML final project data cleaning PART 1.ipynb)
+    [Part 2](/code/1-ML final project data cleaning PART 2.ipynb)
+    [Part 3](/code/1-ML final project data cleaning PART 3_NLP.ipynb)
+    [Part 4](/code/1-ML final project data cleaning PART 4.ipynb)
+    [Part 5](/code/1-ML final project data cleaning PART 5.ipynb)
+    [Part 6](/code/1-ML final project data cleaning PART 6_SUMMMARY.ipynb)
    
     II-MODEL BUILDING
     [Regression 1](/Users/morgan/Documents/GitHub/Morgan_Meng_Portfolio/code/2-LR_MODEL 1.ipynb)
