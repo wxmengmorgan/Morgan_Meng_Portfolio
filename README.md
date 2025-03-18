@@ -18,7 +18,7 @@ I am a professional with expertise in data modeling and problem-solving. This po
 
 ## Resume
 
-You can view my resume [here](path/to/your/resume.pdf).
+You can view my resume [here](activities/Universal_Resume.docx).
 
 ## Projects
 
@@ -55,7 +55,7 @@ Here are some of the projects I have worked on:
 2. **Project Name**Predictive Modeling for Strategic Student Recruitment                                      
    - Description: Conceptualized and implemented a data-driven initiative to optimize student recruitment, analyzing 60,000+ admission records using Python and PowerQuery.
                   Built Dashboards to support team decision-making.
-   - Code (COMMING SOON...): [Tranfer Students locations](code/UST Transfer Project 1.ipynb)
+   - Code (COMMING SOON...): [Tranfer Students locations](code/UST_Transfer_Project_1.ipynb)
    - Data Visualization
    - Technologies Used:PowerQuery,Python API, Tableau, PowerBI 
 
