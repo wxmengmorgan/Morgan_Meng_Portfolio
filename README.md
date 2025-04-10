@@ -3,20 +3,19 @@
 
 ## Contents
 
-- [Introduction](#I know you wanna know ABOUT ME...)
-- [Skills](#🛠 Skills)
+- [About Me](# About Me)
+- [Skills](# Skills)
 - [Projects](#projects)
 - [Presentations and Dashboards](#presentations-and-dashboards)
 - [Contact](#contact)
 
-## I know you wanna know ABOUT ME...
-
+## About Me
 I’m Morgan Meng — a Business Analytics Major (Data science focus) with a background in feminist geography. I combine strong analytical skills with a mission-oriented mindset. I approach problems like a soldier on a mission: reliable, focused, and fast. I don’t just finish tasks — I execute with precision and purpose.
 
 My portfolio highlights real-world projects and visualizations that showcase how I solve problems and communicate insights.
 
 
-## 🛠 Skills
+## Skills
 
 ### Programming
 Python, SQL, R, Matlab, XML, VBA, Markdown
@@ -35,8 +34,6 @@ Tableau, Power BI, SAS, Lucidchart, ArcGIS
 
 ## Projects
 
-Here are some of the projects I have worked on:
-
 ## Project 1: Predicting Job Market Trends Using LinkedIn Job Postings
 **Description:**  
    Conducted market research using LinkedIn job postings dataset. Extracted insights into job requirements, skill trends, and visa considerations.  
@@ -51,7 +48,7 @@ Here are some of the projects I have worked on:
 | [Data Preparation Part 4](python_code/1-ML_final_project_data_cleaning_PART_4.ipynb)|  |
 | [Data Preparation Part 5](python_code/1-ML_final_project_data_cleaning_PART_5.ipynb)|  |
 
-| ML Modeling Notebooks        | Summary                                                              |
+| ML Modeling Notebooks | Summary                                                              |
 | ----------------- | ------------------------------------------------------------------ |
 | [Regression 1](python_code/2-LR_MODEL_1.ipynb) | |
 | [Regression 2](python_code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)|  |
