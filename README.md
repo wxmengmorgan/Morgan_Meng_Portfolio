@@ -1,54 +1,69 @@
 # Morgan W. Meng
 #  Portfolio
 
-Welcome to my portfolio. This repository showcases my professional work and coursework, including my resume, project codes, and presentation or dashboard.
-You are here because you get this link either from my resume or my linkedin. 
-This portfolio includes projects I listed in my resume you received, also other projects showcase I have done so you would get a better iead about what I can do.
-
 ## Contents
 
-- [Introduction](#introduction)
-- [Experience](#Experience)
+- [Introduction](#I know you wanna know ABOUT ME...)
+- [Skills](#🛠 Skills)
 - [Projects](#projects)
 - [Presentations and Dashboards](#presentations-and-dashboards)
 - [Contact](#contact)
 
-## Introduction
+## I know you wanna know ABOUT ME...
 
-I am a professional with expertise in data modeling and problem-solving. This portfolio highlights my skills, projects, and accomplishments.
+I’m Morgan Meng — a Business Analytics Major (Data science focus) with a background in feminist geography. I combine strong analytical skills with a mission-oriented mindset. I approach problems like a soldier on a mission: reliable, focused, and fast. I don’t just finish tasks — I execute with precision and purpose.
 
-## Experience
+My portfolio highlights real-world projects and visualizations that showcase how I solve problems and communicate insights.
 
-You can view my resume [here](activities/Universal_Resume.pdf).
+
+## 🛠 Skills
+
+### Programming
+Python, SQL, R, Matlab, XML, VBA, Markdown
+
+### ML and AI libraries
+NumPy, Pandas, TensorFlow, Keras, Scikit-learn, NLTK, LSTM, PCA
+
+### Statistical Modeling
+ANOVA, CANOVA, Monte Carlo forcasting, optimization
+
+### Database 
+Snowflake, SQLite, Cassandra, ETL
+
+### Data Visualization
+Tableau, Power BI, SAS, Lucidchart, ArcGIS
 
 ## Projects
 
 Here are some of the projects I have worked on:
 
-1. ###  Predicting Job Market Trends Using LinkedIn Job Postings		
-   - Description: Conducted market research using LinkedIn job postings dataset. Extracted insights into job requirements, skill trends, and visa considerations.  
-   Phase 1 ML: Applied logistic regression, SVM, decision trees, and clustering for data analysis and visualization, aiding in identifying data-driven hiring trends.  
-   Phase 2 AI(anticipated releasing May 2025): CNN and Text analysis to identify emerging skills and industry trends.  
-   
-   - Code: 
-    I-DATA CLEANING AND INTERGRATION
-    [Part 1](code/1-ML_final_project_data_cleaning_PART_1.ipynb)<br>
-    [Part 2](code/1-ML_final_project_data_cleaning_PART_2.ipynb)<br>
-    [Part 3 NLP](code/1-ML_final_project_data_cleaning_PART_3_NLP.ipynb)<br>
-    [Part 4](code/1-ML_final_project_data_cleaning_PART_4.ipynb)<br>
-    [Part 5](code/1-ML_final_project_data_cleaning_PART_5.ipynb)<br>
-    [Part 6 Summary](code/1-ML_final_project_data_cleaning_PART_6_SUMMMARY.ipynb)<br>
-   
-    II-MODEL BUILDING<br>
-    [Regression 1](code/2-LR_MODEL_1.ipynb)<br>
-    [Regression 2& Decison Tree 3](code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)<br>
-    [SVM 1 &SVM 2 with PCA](code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)<br>
-    [SVM 3_Top predictiors](code/3-SVM_MODEL_3_Top__5_Predictors.ipynb)<br>
-    [SVM 4](code/3-SVM_MODEL_4.ipynb)<br>
-    [Decision Tree 1](code/4-DT_MODEL_1.ipynb)<br>
-    [Decision Tree 2](code/4-DT_MODEL_2.ipynb)<br>
-    [Clustering 1](code/4-DT_MODEL_1.ipynb)<br>
-    [Clustering 2](code/4-DT_MODEL_2.ipynb)<br>
+## Project 1: Predicting Job Market Trends Using LinkedIn Job Postings
+**Description:**  
+   Conducted market research using LinkedIn job postings dataset. Extracted insights into job requirements, skill trends, and visa considerations.  
+   - **Phase 1 – Machine Learning:** Logistic regression, SVM, decision trees, and clustering for data analysis and visualization.  
+   - **Phase 2 – AI (Coming May 2025):** CNN and text analysis to identify emerging skills and industry trends.  
+
+| Data Cleaning & Integration Notebooks|Summary                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| [Data Preparation Part 1](python_code/1-ML_final_project_data_cleaning_PART_1.ipynb) | |
+| [Data Preparation Part 2](python_code/1-ML_final_project_data_cleaning_PART_2.ipynb)|  |
+| [Data Preparation Part 3](python_code/1-ML_final_project_data_cleaning_PART_3_NLP.ipynb)|  |
+| [Data Preparation Part 4](python_code/1-ML_final_project_data_cleaning_PART_4.ipynb)|  |
+| [Data Preparation Part 5](python_code/1-ML_final_project_data_cleaning_PART_5.ipynb)|  |
+
+| ML Modeling Notebooks        | Summary                                                              |
+| ----------------- | ------------------------------------------------------------------ |
+| [Regression 1](python_code/2-LR_MODEL_1.ipynb) | |
+| [Regression 2](python_code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)|  |
+| [SVM 1](python_code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)|  |
+| [SVM 2](python_code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)|  |
+| [SVM 3](python_code3-SVM_MODEL_3_Top__5_Predictors.ipynb)|  |
+| [SVM 4](python_code3-SVM_MODEL_4.ipynb)|  |
+| [Decision Tree 1](python_code/4-DT_MODEL_1.ipynb)|  |
+| [Decision Tree 2](python_code/4-DT_MODEL_2.ipynb)|  |
+| [Decision Tree 3](python_code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)|  |
+| [Clustering 1](python_code/5-Clustering_MODEL_2.ipynb.ipynb)|  |
+| [Clustering 2](python_code/4-DT_MODEL_2.ipynb)|  |
     
    - Technologies Used: Python, Pandas, Numpy, Scikit-learn, Matplotlib, Linear Regression, Lasso, SVM, Decision Tree, PCA, Clustering, NLP
 
@@ -76,5 +91,8 @@ Below are some of the presentations and dashboards I have created:
    - File: [Link to the dashboard file](path/to/dashboard/file)
 
 ## Contact
+## Experience
+
+You can view my resume [here](activities/Universal_Resume.pdf).
 
 Feel free to reach out to me at [your email address](mailto:your-email@example.com).
