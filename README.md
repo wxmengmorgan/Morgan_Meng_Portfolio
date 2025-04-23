@@ -27,7 +27,7 @@ NumPy, Pandas, TensorFlow, Keras, Scikit-learn, NLTK, LSTM, PCA
 ANOVA, CANOVA, Monte Carlo forcasting, optimization
 
 ### Database 
-Snowflake, SQLite, Cassandra, ETL
+Snowflake, SQLite, Alteryx, Cassandra, ETL
 
 ### Data Visualization
 Tableau, Power BI, SAS, Lucidchart, ArcGIS
@@ -40,17 +40,21 @@ Tableau, Power BI, SAS, Lucidchart, ArcGIS
    - **Phase 1 – Machine Learning:** Logistic regression, SVM, decision trees, and clustering for data analysis and visualization.  
    - **Phase 2 – AI (Coming May 2025):** CNN and text analysis to identify emerging skills and industry trends.  
 
-| Data Cleaning & Integration Notebooks|Summary                                                              |
-| ----------------- | ------------------------------------------------------------------ |
-| [Data Preparation Part 1](python_code/1-ML_final_project_data_cleaning_PART_1.ipynb) | |
-| [Data Preparation Part 2](python_code/1-ML_final_project_data_cleaning_PART_2.ipynb)|  |
-| [Data Preparation Part 3](python_code/1-ML_final_project_data_cleaning_PART_3_NLP.ipynb)|  |
-| [Data Preparation Part 4](python_code/1-ML_final_project_data_cleaning_PART_4.ipynb)|  |
-| [Data Preparation Part 5](python_code/1-ML_final_project_data_cleaning_PART_5.ipynb)|  |
+Data Preparation Workflow
 
-| ML Modeling Notebooks | Summary                                                              |
+This project follows a structured, logic-driven data preparation process to transform raw LinkedIn job postings into a clean, enriched dataset ready for machine learning. The workflow begins by filtering relevant job types and cleaning incomplete or noisy records. It then standardizes salary data, merges company metadata, and uses NLP techniques to extract features like required degrees, technical skills, and job classifications. The final steps include adding sector-level tags and geographic mobility scores, enabling advanced modeling and strategic visualization. Each notebook builds on the last, layering structure, insight, and domain relevance into a comprehensive, high-quality dataset.
+
+| Data Cleaning & Integration Notebooks| 📄 Summary | 🧰 Libraries & Techniques   | 💡 Highlights|
+|-----------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| [Data Preparation Part 1](python_code/1-ML_final_project_data_cleaning_PART_1.ipynb)| **Part 1** – Initial Filtering & Cleaning                                 | `pandas`, `numpy`, datetime parsing, NA filtering                          | Cleaned raw LinkedIn dataset to focus on full-time and contract jobs, removed irrelevant cols |
+| [Data Preparation Part 2](python_code/1-ML_final_project_data_cleaning_PART_2.ipynb)| **Part 2** – Salary Normalization & Company Merging                       | `pandas`, conditional logic, multi-source merging                          | Converted all salaries to yearly, joined 4 company-level datasets, handled pay_period edge cases |
+| [Data Preparation Part 3](python_code/1-ML_final_project_data_cleaning_PART_3_NLP.ipynb)| **Part 3** – NLP Feature Engineering & Job Classification                | `nltk`, `re`, custom scoring, keyword search                              | Extracted degrees, hard/soft skills, job type (Business vs. Engineering) from descriptions |
+| [Data Preparation Part 4](python_code/1-ML_final_project_data_cleaning_PART_4.ipynb)| **Part 4** – Structuring, Salary Repair & Feature Consolidation          | `pandas`, date diff, logical filters                                       | Added posting duration, filtered invalid salary rows, reorganized 40 final features |
+| [Data Preparation Part 5](python_code/1-ML_final_project_data_cleaning_PART_5.ipynb)| **Part 5** – Sector Tagging & Geographic Mobility Scoring                | `nltk`, `geopy`, token matching, location scoring                         | Mapped industries to sectors and assigned relocation/mobility scores by distance from MN |
+
+| ML Modeling Notebooks | Summary                                                              | |
 | ----------------- | ------------------------------------------------------------------ |
-| [Regression 1](python_code/2-LR_MODEL_1.ipynb) | |
+| [Regression 1](python_code/2-LR_MODEL_1.ipynb) | | 
 | [Regression 2](python_code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)|  |
 | [SVM 1](python_code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)|  |
 | [SVM 2](python_code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)|  |
