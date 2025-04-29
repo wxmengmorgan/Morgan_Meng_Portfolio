@@ -52,8 +52,8 @@ This project follows a structured, logic-driven data preparation process to tran
 | [Data Preparation Part 4](python_code/1-ML_final_project_data_cleaning_PART_4.ipynb)| Structuring, Salary Repair & Feature Consolidation          | `pandas`, date diff, logical filters                                       | Added posting duration, filtered invalid salary rows, reorganized 40 final features |
 | [Data Preparation Part 5](python_code/1-ML_final_project_data_cleaning_PART_5.ipynb)| Sector Tagging & Geographic Mobility Scoring                | `nltk`, `geopy`, token matching, location scoring                         | Mapped industries to sectors and assigned relocation/mobility scores by distance from MN |
 
-|  Data Cleaning & Integration Notebooks| 📄 Summary | 🧰 Libraries & Techniques   | 💡 Highlights|
-|-----------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+|  Models | 📄 Summary | 🧰 Libraries & Techniques   | 💡 Highlights|
+|----------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | [Regression 1](python_code/2-LR_MODEL_1.ipynb) | | 
 | [Regression 2](python_code/2-LR_MODEL_2_&DT_MODEL_3.ipynb)|  |
 | [SVM 1](python_code/3-SVM_MODEL_1&_MODEL_2__PCA.ipynb)|  |
@@ -74,7 +74,9 @@ This project follows a structured, logic-driven data preparation process to tran
 	[API Location Cleaning](code/Tranfers_address.ipynb)<br>
 	[Transfer Students Recruitment Map](code/UST_Transfer_Project_1.ipynb)<br>
    - Dashboard<br>
-	![Admission Dashboard]()<br>
+	![Admission Dashboard](dashboard/AI_dashboard1.png)<br>
+	![Admission Dashboard](dashboard/AI_dashboard2.png)<br>
+
    - Technologies Used:PowerQuery,Python API, Tableau, PowerBI <br>,SQL
 
 ## Presentations and Dashboards
