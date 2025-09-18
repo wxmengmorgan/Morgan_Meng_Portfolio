@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [About Me](#About Me)
+- [About Me](#about-me)
 - [Skills](#Skills)
 - [Projects](#projects)
 - [Presentations and Dashboards](#presentations-and-dashboards)
