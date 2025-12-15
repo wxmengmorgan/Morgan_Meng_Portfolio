@@ -83,12 +83,67 @@ This project follows a structured, logic-driven data preparation process to tran
 
 Below are some of the presentations and dashboards I have created:
 
-1. **Presentation Title**
-   - Description: A brief description of the presentation.
-   - Screenshot: ![Screenshot](path/to/screenshot.png)
+## 🏭 Manufacturing Forecasting & Revenue Variance Intelligence System
+**Tools:** Python, SQL, Power BI, DAX, PowerPoint  
+**Domain:** Forecasting · Sales Operations · Executive Analytics  
+
+### 🔍 Project Overview
+Built an end-to-end forecasting and variance analysis system for a manufacturing client to support revenue planning and executive decision-making. The focus was on translating complex forecasting logic into intuitive dashboards and consulting-grade narratives that leadership could quickly act on.
+
+### 🛠 Techiniques and Skills  
+- Time-series forecasting and trend analysis (Python)
+- Variance-to-goal and what-if scenario modeling
+- KPI design and metric governance
+- Power BI dashboards with DAX measures
+- SQL data aggregation and transformation
+- Executive-level data visualization
+
+### 🤝 Soft Skills
+- Consulting-style problem framing
+- Executive communication and storytelling
+- Working under pressure with evolving requirements
+- Translating technical analysis for non-technical stakeholders
+- Strong ownership and delivery mindset
+
+### 📈 Impact
+- Enabled leadership to identify high-risk products and customers early  
+- Improved clarity around forecast confidence and demand volatility  
+- Praised for clear slides and decision-oriented insights  
+
+![Capstone Slides](slides/ML_763_Meng_ Final_Project_Slides.gif)<br>
+[Link to the Deck file](slide/ML_763_Meng_ Final_Project_Slides.pdf)<br>
+---
+
+## 🎓 Strategic Enrollment Risk & Experience Analytics Pipeline
+**Tools:** Alteryx, Python, SQL, Power BI, Salesforce  
+**Domain:** Funnel Analytics · Data Governance · User Experience  
+
+### 🔍 Project Overview
+Developed a unified analytics pipeline to improve visibility into enrollment funnel performance, applicant experience, and operational risk. Integrated multiple systems into a governed source of truth and delivered dashboards used by leadership to guide strategy and early intervention.
+
+### 🛠 Hard Skills Demonstrated
+- ETL and data integration (Alteryx, SQL)
+- CRM data modeling (Salesforce)
+- KPI definition and metric governance
+- Funnel analysis and conversion diagnostics
+- Power BI dashboard design
+- Python-based forecasting and analysis
+
+### 🤝 Soft Skills Demonstrated
+- Comfort with ambiguity and incomplete data
+- Cross-functional collaboration with operations and leadership
+- Ethical handling of sensitive data
+- Clear stakeholder communication
+- Process improvement and systems thinking
+
+### 📈 Impact
+- Improved visibility into conversion risk and processing delays  
+- Enabled earlier intervention and better applicant experience  
+- Supported growth across key enrollment segments  
+	- 
    - File: [Link to the presentation file](path/to/presentation/file)
 
-2. **Dashboard Title**
+3. **Dashboard Title**
    - Description: A brief description of the dashboard.
    - Screenshot: ![Screenshot](path/to/screenshot.png)
    - File: [Link to the dashboard file](path/to/dashboard/file)
