@@ -83,12 +83,32 @@ This project follows a structured, logic-driven data preparation process to tran
 
 Below are some of the presentations and dashboards I have created:
 
-1. **Presentation Title**
-   - Description: A brief description of the presentation.
-   - Screenshot: ![Screenshot](path/to/screenshot.png)
+1. Manufacturing Forecasting & Revenue Variance Intelligence System
+   Tools: Python, SQL, Power BI, DAX, PowerPoint
+	Domain: Forecasting · Sales Operations · Executive Analytics
+   - Project Overview
+     Built an end-to-end forecasting and variance analysis system for a manufacturing client to support revenue planning and executive decision-making. The project focused on translating complex forecasting logic into intuitive dashboards and consulting-grade narratives that leaders could act on.
+   - Hard Skills 
+	•	Time-series forecasting & trend analysis (Python)
+	•	Variance-to-goal and what-if scenario modeling
+	•	KPI design and metric governance
+	•	Power BI dashboards with DAX measures
+	•	SQL data aggregation and transformation
+	•	Executive-level data visualization
+   - Soft Skills Demonstrated
+	•	Consulting-style problem framing
+	•	Executive communication & storytelling
+	•	Working under time pressure with evolving requirements
+	•	Translating technical analysis for non-technical stakeholders
+	•	Ownership and delivery mindset (“get things done”)
+   - Impact
+	•	Enabled leadership to identify high-risk products and customers early
+	•	Improved clarity around forecast confidence and demand volatility
+	•	Praised for clear slides and decision-oriented insights
+	- Screenshot: ![Screenshot](path/to/screenshot.png)
    - File: [Link to the presentation file](path/to/presentation/file)
 
-2. **Dashboard Title**
+3. **Dashboard Title**
    - Description: A brief description of the dashboard.
    - Screenshot: ![Screenshot](path/to/screenshot.png)
    - File: [Link to the dashboard file](path/to/dashboard/file)
