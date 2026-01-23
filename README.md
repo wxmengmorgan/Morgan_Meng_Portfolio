@@ -111,7 +111,7 @@ Built an end-to-end forecasting and variance analysis system for a manufacturing
 - Praised for clear slides and decision-oriented insights  
 
 ![Capstone Slides](slides/ML_763_Meng_ Final_Project_Slides.gif)<br>
-[Link to the Deck file](slide/ML_763_Meng_ Final_Project_Slides.pdf)<br>
+![Link to the Deck file](slide/ML_763_Meng_ Final_Project_Slides.pdf)<br>
 ---
 
 ## 🎓 Strategic Enrollment Risk & Experience Analytics Pipeline
